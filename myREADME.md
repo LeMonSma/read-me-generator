@@ -1,4 +1,4 @@
-# fasd 
+# Read me Generator 
     
     undefined
    ## Table of Contents:
@@ -10,7 +10,7 @@
     - [Tests](#tests)
     - [Questions](#Questions)
     ## Description: 
-    asdf
+    This app creates a professional level read me in minutes
     ## Installation: 
     undefined
     ## Usage: 
@@ -18,10 +18,10 @@
     ## License: 
     'This project is licensed under undefined: undefined
     ## Contributing: 
-    asdf
+    Cory Burris
     ## Tests: 
-    asdf
+    n/a
     ## Questions: 
-    afsd
-    Please reach out to me at fasdf with any additional questions, comments, or concerns!
+    no
+    Please reach out to me at burrisc24@gmail.com with any additional questions, comments, or concerns!
   
