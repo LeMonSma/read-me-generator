@@ -1,25 +1,26 @@
 # Read ME Generator 
     
     undefined
-   ## Table of Contents:
-    - [Description](#Description)
+## Table of Contents:
+    - [Description] (#Description)
     - [Installation](#Installation)
     - [Usage](#Usage)
     - [License](#License)
     - [Contributing](#Contributing)
     - [Tests](#tests)
     - [Questions](#Questions)
-    ## Description: 
+    
+## Description: 
     This app will Create you a professional read me!
-    ## Installation: 
+## Installation: 
     undefined
-    ## Usage: 
+ ## Usage: 
     undefined
-    ## License: 
+## License: 
     'This project is licensed under undefined: undefined
-    ## Contributing: 
+## Contributing: 
     Cory Burris
-    ## Tests: 
+## Tests: 
     n/a
     ## Questions: 
     https://github.com/LeMonSma/read-me-generator.git
