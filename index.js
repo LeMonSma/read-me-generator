@@ -80,12 +80,6 @@ const questions = [
         }
     },
     {
-        type: 'list',
-        name: 'listLicense',
-        choices: ['MIT', 'BSD 3-clause', 'Apache']
-
-    },
-    {
         type: 'input',
         name: 'github',
         message: 'what is your git hub url? (REQUIRED)',
