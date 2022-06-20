@@ -13,16 +13,16 @@
 ## Description: 
     This app will Create you a professional read me!
 ## Installation: 
-    undefined
+    Please download the app and run node index
  ## Usage: 
     undefined
 ## License: 
-    'This project is licensed under undefined: undefined
+    N/a
 ## Contributing: 
     Cory Burris
 ## Tests: 
-    n/a
-    ## Questions: 
+    
+## Questions: 
     https://github.com/LeMonSma/read-me-generator.git
     Please reach out to me at burrisc24@gmail.com with any additional questions, comments, or concerns!
   
